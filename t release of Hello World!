@@ -1,0 +1,36 @@
+[33mcommit d5e14e81392930f02a1798343377a15aba0b7907[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: AstinFernandez <111414257+AstinFernandez@users.noreply.github.com>
+Date:   Thu Jan 2 12:37:54 2025 +0300
+
+    Update README.md
+
+[33mcommit f59894855e8ab33839ea3a69662e5a5979f4d47b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Merge: f8176d3 c7aee46
+Author: Astin Fernandez <astinkamau@gmail.com>
+Date:   Thu Jan 2 07:38:16 2025 +0300
+
+    merged with hello-world-images after ficing conflicts
+
+[33mcommit c7aee46a495bc2b27db93008b6d56594fe5d56b9[m
+Author: Astin Fernandez <astinkamau@gmail.com>
+Date:   Thu Jan 2 07:34:51 2025 +0300
+
+    added new image
+
+[33mcommit f8176d379ef502d4c91998503d9bb06ec42850dd[m
+Author: Astin Fernandez <astinkamau@gmail.com>
+Date:   Thu Jan 2 07:28:56 2025 +0300
+
+    Updated index.html with emergency fix
+
+[33mcommit ca3e64f7adc1285a805bf328b1bd430778addd84[m
+Author: Astin Fernandez <astinkamau@gmail.com>
+Date:   Thu Jan 2 07:25:11 2025 +0300
+
+    Added image to Hello World
+
+[33mcommit 5446e97025985d30aa917751dddfe79cbc8ba1fd[m
+Author: Astin Fernandez <astinkamau@gmail.com>
+Date:   Thu Jan 2 07:12:19 2025 +0300
+
+    First release of Hello World!
